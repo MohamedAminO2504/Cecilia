@@ -1,0 +1,24 @@
+#projets {
+    background-image: url(../img/parallax/projets.jpg);
+}
+
+#chansons {
+    background-image: url(../img/parallax/abba.jpg);
+}
+
+.page_latest_album.parallax.ds.ms:after {
+    opacity: 0.5;
+}
+
+#contact {
+    background-image: url(../img/pattern7.png);
+}
+
+.media-links div.yt {
+    top: 20%;
+    margin-top: 0;
+}
+
+.media-links div.yt a:before {
+    content: "";
+}
