@@ -4908,14 +4908,14 @@ h2.section_header + .fontsize_20 {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-	background: url(../img/preloader.png) no-repeat 50% 50% transparent;
+	background: url(../img/preloader2.gif) no-repeat 50% 50% transparent;
 	margin: -50px 0 0 -50px;
 	background-size: contain;
 }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
 	.preloader_image {
-		background: url(../img/preloader.png) no-repeat 50% 50% transparent;
+		background: url(../img/preloader2.gif) no-repeat 50% 50% transparent;
 	}
 }
 
